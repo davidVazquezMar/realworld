@@ -25,7 +25,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
 
 
 # Frontends
-> _Sorted by popularity on Tue Aug 14 2018_
+> _Sorted by popularity on Sun Aug 19 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -56,7 +56,7 @@ Work In Progress:
 [Nuxt.js](https://github.com/gothinkster/realworld/issues/218)**
 
 # Backends
-> _Sorted by popularity on Tue Aug 14 2018_
+> _Sorted by popularity on Sun Aug 19 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -98,7 +98,6 @@ Work In Progress:
 [Swift Vapor](https://github.com/gothinkster/realworld/issues/175) | 
 [Egg.js](https://github.com/gothinkster/realworld/issues/200) | 
 [Serverless python (AWS Lambda)](https://github.com/gothinkster/realworld/issues/201) | 
-[🗄🔧 Haskell / Yesod](https://github.com/gothinkster/realworld/issues/202) | 
 [Serverless Typescript + Mongodb (implementation done)](https://github.com/gothinkster/realworld/issues/206) | 
 [Scala akka-http implementation of realworld](https://github.com/gothinkster/realworld/issues/207) | 
 [Azure Functions + CosmosDb](https://github.com/gothinkster/realworld/issues/209) | 
@@ -110,7 +109,7 @@ Work In Progress:
 [Zend Framework](https://github.com/gothinkster/realworld/issues/247)**
 
 # Mobile
-> _Sorted by popularity on Tue Aug 14 2018_
+> _Sorted by popularity on Sun Aug 19 2018_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
